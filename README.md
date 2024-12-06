@@ -1,4 +1,3 @@
-# Introduction-to-Aptos-and-AptosSwap
 # AptosSwap: Seamless DeFi Experience on the Aptos Blockchain
 
 AptosSwap is a decentralized exchange (DEX) built on the Aptos blockchain, providing seamless and high-speed token swaps within the decentralized finance (DeFi) ecosystem. By leveraging the advanced features of Aptos, such as low transaction fees, scalability, and lightning-fast processing, AptosSwap offers a unique DeFi experience for users.
